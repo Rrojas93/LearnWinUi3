@@ -1,0 +1,9 @@
+namespace LearnWinUi3
+{
+    [default_interface]
+    runtimeclass DiceRollerPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        DiceRollerPage();
+        Int32 MyProperty;
+    }
+}

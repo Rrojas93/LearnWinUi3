@@ -1,0 +1,8 @@
+namespace LearnWinUi3
+{
+    [default_interface]
+    runtimeclass ToolSelectorPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        ToolSelectorPage();
+    }
+}
